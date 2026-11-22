@@ -1,3 +1,5 @@
-&kscan0 {
-    diode-direction = "row2col";
+/ {
+    kscan0: kscan {
+        diode-direction = "row2col";
+    };
 };
